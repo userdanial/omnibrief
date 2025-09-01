@@ -1,0 +1,11 @@
+
+# Virtual environments
+textenv/
+venv/
+.env/
+.venv/
+env/
+# Temporary files
+*.tmp
+
+
